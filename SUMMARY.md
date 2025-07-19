@@ -5,20 +5,29 @@
 ## Overview
 
 * [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
 
-## Product Guides
+## Guides and Tutorials
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Making a post](guides-and-tutorials/making-a-post.md)
+* [📎 Understanding Projects](guides-and-tutorials/understanding-projects.md)
 
-## Fundamentals
+## Best Practices
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠️ Getting set up](best-practices/getting-set-up/README.md)
+  * [📝 Setting permissions](best-practices/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](best-practices/getting-set-up/inviting-members.md)
 
-## Use Cases
+## Tool Reviews
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [🎨 For Designers](tool-reviews/for-designers.md)
+* [🖥️ For Developers](tool-reviews/for-developers.md)
+
+## Community Resources
+
+* [🎨 For Designers](community-resources/for-designers.md)
+* [🖥️ For Developers](community-resources/for-developers.md)
+
+## Hands On Examples
+
+* [🎨 For Designers](hands-on-examples/for-designers.md)
+* [🖥️ For Developers](hands-on-examples/for-developers.md)
