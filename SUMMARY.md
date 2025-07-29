@@ -2,10 +2,6 @@
 
 * [👋 Welcome to WriteitRight](README.md)
 
-## Overview
-
-* [💡 What we do](overview/what-we-do.md)
-
 ## Guides and Tutorials
 
 * [📪 Making a post](guides-and-tutorials/making-a-post.md)
